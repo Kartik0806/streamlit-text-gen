@@ -1,4 +1,3 @@
 torch
-zipfile
 numpy
 pandas
